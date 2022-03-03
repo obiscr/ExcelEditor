@@ -98,6 +98,6 @@ Excel合并有三种格式: **合并单行**, **合并多行**, **合并所有�
 
 # 贡献
 
-请fork此仓库提交PR或者创建issue进行反馈。也可以加入[Slack](https://observercreator.slack.com/)。
+请fork此仓库提交PR或者创建issue进行反馈。也可以加入[Slack](https://observercreator.slack.com/)。(**需要先发送邮件至 piercebrands@gmail.com 获取邀请**)
 
 > 值得一提的是，与 ExcelReader 不同，ExcelEditor 的 [Slack](https://observercreator.slack.com/) 只用于问题反馈等等。ExcelEditor是不开源的。
