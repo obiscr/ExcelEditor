@@ -11,7 +11,7 @@
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
-[![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://observercreator.slack.com/)
+[![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
 
 
 This plugin is an Enhanced Edition of [**ExcelReader**](https://plugins.jetbrains.com/plugin/14722-excelreader).
@@ -102,4 +102,4 @@ it will be processed as multi-row merge, and not all rows will be merged.
 
 Please fork this repository and submit a PR or create an issue for feedback. Also join [Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA).
 
-> It is worth mentioning that, unlike ExcelReader, ExcelEditor's [Slack](https://observercreator.slack.com/) is only used for problem feedback and so on. ExcelEditor is not open source.
+> It is worth mentioning that, unlike ExcelReader, ExcelEditor's [Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA) is only used for problem feedback and so on. ExcelEditor is not open source.
