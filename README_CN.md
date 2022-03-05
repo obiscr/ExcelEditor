@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
-[![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://observercreator.slack.com/)
+[![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
 
 <p> 
 
@@ -100,4 +100,4 @@ Excel合并有三种格式: **合并单行**, **合并多行**, **合并所有�
 
 请fork此仓库提交PR或者创建issue进行反馈。也可以加入[Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)。
 
-> 值得一提的是，与 ExcelReader 不同，ExcelEditor 的 [Slack](https://observercreator.slack.com/) 只用于问题反馈等等。ExcelEditor是不开源的。
+> 值得一提的是，与 ExcelReader 不同，ExcelEditor 的 [Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA) 只用于问题反馈等等。ExcelEditor是不开源的。
