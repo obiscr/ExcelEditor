@@ -100,6 +100,6 @@ it will be processed as multi-row merge, and not all rows will be merged.
 
 # Contribution
 
-Please fork this repository and submit a PR or create an issue for feedback. Also join [Slack.](https://observercreator.slack.com/) (**You need to send an email to piercebrands@gmail.com to get an invitation first**)
+Please fork this repository and submit a PR or create an issue for feedback. Also join [Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA).
 
 > It is worth mentioning that, unlike ExcelReader, ExcelEditor's [Slack](https://observercreator.slack.com/) is only used for problem feedback and so on. ExcelEditor is not open source.
