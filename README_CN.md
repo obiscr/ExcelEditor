@@ -1,15 +1,30 @@
 # ExcelEditor
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
-[![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
-
 <p> 
 
 [简体中文](https://github.com/obiscr/ExcelReader/blob/main/README_CN.md)  |
 [English](https://github.com/obiscr/ExcelEditor/blob/main/README.md)
 
 </p>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
+[![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
+
+
+# 折扣 (Discount)
+
+添加微信群或者加入Slack 享受折扣
+
++ Slack
+
+  [点击加入Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
+
++ 加入微信群
+
+  <img width=200 src="https://services.obiscr.com/file/图片/ExcelEditor（一）群-20220727100940276.png" alt="二维码">
+
+
 
 这款插件是 [**ExcelReader**](https://plugins.jetbrains.com/plugin/14722-excelreader)
 的增强版。
