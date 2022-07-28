@@ -14,6 +14,17 @@
 [![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
 
 
+# 折扣 (Discount)
+
++ Slack
+
+  [Click to Join Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
+
++ 微信群
+
+  <img width=200 src="https://services.obiscr.com/file/图片/ExcelEditor（一）群-20220727100940276.png" alt="二维码">
+
+
 This plugin is an Enhanced Edition of [**ExcelReader**](https://plugins.jetbrains.com/plugin/14722-excelreader).
 Has all the features of ExcelReader. And additionally provides:
 
