@@ -16,6 +16,8 @@
 
 # 折扣 (Discount)
 
+Add a WeChat group or join Slack for a discount
+
 + Slack
 
   [Click to Join Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
