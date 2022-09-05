@@ -22,7 +22,7 @@
 
 + 加入微信群
 
-  <img width=200 src="https://services.obiscr.com/file/图片/ExcelEditor（一）群-20220727100940276.png" alt="二维码">
+  <img width=200 src="https://user-images.githubusercontent.com/28687074/188489998-9fee38f5-5183-4e4a-aa7f-c5d31074dcc6.png" alt="二维码">
 
 
 
