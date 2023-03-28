@@ -7,6 +7,12 @@
 
 </p>
 
+
+## 微信公众号
+
+<img alt="微信公众号: 观察与创造" width="600" src="https://user-images.githubusercontent.com/28687074/224671786-ecb449a1-4901-4690-bef5-b8d03a8120fa.png" />
+
+
 <!-- Plugin description -->
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
