@@ -12,20 +12,6 @@
 [![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
 
 
-# 折扣 (Discount)
-
-添加微信群或者加入Slack 享受折扣
-
-+ Slack
-
-  [点击加入Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
-
-+ 加入微信群
-
-  <img width=200 src="https://user-images.githubusercontent.com/28687074/188489998-9fee38f5-5183-4e4a-aa7f-c5d31074dcc6.png" alt="二维码">
-
-
-
 这款插件是 [**ExcelReader**](https://plugins.jetbrains.com/plugin/14722-excelreader)
 的增强版。
 
