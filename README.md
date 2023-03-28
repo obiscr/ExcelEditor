@@ -13,20 +13,6 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/18663-exceleditor.svg)](https://plugins.jetbrains.com/plugin/18663-exceleditor)
 [![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
 
-
-# 折扣 (Discount)
-
-Add a WeChat group or join Slack for a discount
-
-+ Slack
-
-  [Click to Join Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
-
-+ 微信群
-
-  <img width=200 src="https://user-images.githubusercontent.com/28687074/188489998-9fee38f5-5183-4e4a-aa7f-c5d31074dcc6.png" alt="二维码">
-
-
 This plugin is an Enhanced Edition of [**ExcelReader**](https://plugins.jetbrains.com/plugin/14722-excelreader).
 Has all the features of ExcelReader. And additionally provides:
 
