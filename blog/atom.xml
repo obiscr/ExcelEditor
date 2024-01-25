@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://exceleditor.obiscr.com/blog</id>
     <title>ExcelEditor Blog</title>
-    <updated>2023-11-10T05:05:20.601Z</updated>
+    <updated>2024-01-25T11:50:21.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://exceleditor.obiscr.com/blog"/>
     <subtitle>ExcelEditor Blog</subtitle>
     <icon>https://exceleditor.obiscr.com/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Support Sheet Comparison]]></title>
+        <id>https://exceleditor.obiscr.com/blog/support-sheet-comparison </id>
+        <link href="https://exceleditor.obiscr.com/blog/support-sheet-comparison "/>
+        <updated>2024-01-25T11:50:21.000Z</updated>
+        <summary type="html"><![CDATA[In version 2024.1.26, we support comparison between sheets, You can select sheets on the left or right to compare.]]></summary>
+        <content type="html"><![CDATA[<p>In version 2024.1.26, we support comparison between sheets, You can select sheets on the left or right to compare.</p><p><img loading="lazy" src="/assets/images/manually-diff-fcbf2e8351fe2ccf01361d102f4ddcab.png" width="1778" height="447" class="img_ev3q"></p><p><img loading="lazy" src="/assets/images/vcs-commit-diff-09ffcea2384360c014ecf20fd2b0f97a.png" width="1602" height="1213" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>吴子</name>
+            <uri>https://github.com/obiscr</uri>
+        </author>
+        <category label="Feature" term="Feature"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What's sql search model]]></title>
         <id>https://exceleditor.obiscr.com/blog/sql-search-model</id>
         <link href="https://exceleditor.obiscr.com/blog/sql-search-model"/>
-        <updated>2023-11-10T05:05:20.601Z</updated>
+        <updated>2023-11-10T05:11:25.000Z</updated>
         <summary type="html"><![CDATA[Add Sql Search Model]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="add-sql-search-model">Add Sql Search Model<a href="#add-sql-search-model" class="hash-link" aria-label="Direct link to Add Sql Search Model" title="Direct link to Add Sql Search Model">​</a></h2><p>ExcelReader has been updated with a SQL search mode that allows queries to be made based on multiple criteria at the same time.</p><p><img loading="lazy" src="https://user-images.githubusercontent.com/28687074/158058906-bf355e85-71cf-475f-9814-5ef5ea98faba.gif" alt="Preview1" class="img_ev3q"></p><p><img loading="lazy" src="https://user-images.githubusercontent.com/28687074/158058915-70cec3ec-872c-45a7-aa7d-dd68d735d953.gif" alt="Preview2" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="support-versions">Support Versions<a href="#support-versions" class="hash-link" aria-label="Direct link to Support Versions" title="Direct link to Support Versions">​</a></h2><table><thead><tr><th align="left">Plugin Version</th><th align="left">IDE Version</th></tr></thead><tbody><tr><td align="left"><a href="https://plugins.jetbrains.com/plugin/14722-excelreader/versions/stable/162214" target="_blank" rel="noopener noreferrer">2021.3.2</a></td><td align="left">2021.3 ~ 2021.3.2</td></tr><tr><td align="left"><a href="https://plugins.jetbrains.com/plugin/14722-excelreader/versions/stable/162213" target="_blank" rel="noopener noreferrer">2021.2.2</a></td><td align="left">2021.2 ~ 2021.2.4</td></tr><tr><td align="left"><a href="https://plugins.jetbrains.com/plugin/14722-excelreader/versions/stable/162211" target="_blank" rel="noopener noreferrer">2021.1.2</a></td><td align="left">2021.1 ~ 2021.1.3</td></tr><tr><td align="left"><a href="https://plugins.jetbrains.com/plugin/14722-excelreader/versions/stable/162209" target="_blank" rel="noopener noreferrer">2020.3.2</a></td><td align="left">2020.3 ~ 2020.3.4</td></tr><tr><td align="left"><a href="https://plugins.jetbrains.com/plugin/14722-excelreader/versions/stable/162208" target="_blank" rel="noopener noreferrer">2020.2.2</a></td><td align="left">2020.2 ~ 2020.2.4</td></tr><tr><td align="left"><a href="https://plugins.jetbrains.com/plugin/14722-excelreader/versions/stable/162207" target="_blank" rel="noopener noreferrer">2020.1.2</a></td><td align="left">2020.1 ~ 2020.1.4</td></tr></tbody></table><h2 class="anchor anchorWithStickyNavbar_LWe7" id="usage">Usage<a href="#usage" class="hash-link" aria-label="Direct link to Usage" title="Direct link to Usage">​</a></h2><p>Open ExcelReader，Press <code>Alt + Q</code> or Click <img loading="lazy" src="https://user-images.githubusercontent.com/28687074/158059969-51eeb68c-f0f4-44bb-bcd8-e4413c63fca6.svg" class="img_ev3q"> to enable <code>Sql Search Model</code>.</p><p><img loading="lazy" src="https://user-images.githubusercontent.com/28687074/158205245-821cb56c-9691-44e2-9448-821b1bd5ec21.png" class="img_ev3q"></p><p>The first time you press <code>/</code>, it will display all the column names for the current table. After selecting the column name, <code>column name=</code> will be filled in automatically, and then enter to match the value you want. If there is more than one condition, you can enter <code>/</code> again.
 After the autofill is complete, enter the value you want to match. If you have more than one condition, do the same as above.</p><p>After selecting a column, when you press <code>/</code> again, it will not appear in the candidate list.</p>]]></content>
